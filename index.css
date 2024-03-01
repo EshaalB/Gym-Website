@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to bottom right, #000000, #171818);
+  color: white;
+  font-family: "Inter", sans-serif;
+  transition: 0.4s ease-in;
+}
