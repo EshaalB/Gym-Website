@@ -38,7 +38,7 @@ A modern, responsive, and sleek landing page for a gym or fitness center, built 
 git clone https://github.com/your-username/fitzone-landing.git
 
 # 2. Navigate into the project
-cd fitzone-landing
+cd Gym-Website
 
 # 3. Install dependencies
 npm install
